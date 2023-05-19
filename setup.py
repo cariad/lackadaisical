@@ -33,7 +33,7 @@ setup(
     author="Cariad Eccleston",
     author_email="cariad@cariad.earth",
     classifiers=classifiers,
-    description="Keeps an eye on slow tests",
+    description="Keeps an eye on slow code",
     include_package_data=True,
     license="MIT",
     long_description=long_description,
@@ -46,7 +46,7 @@ setup(
         "lackadaisical": ["py.typed"],
     },
     project_urls={
-        "Documentation": "https://cariad.github.io/lackadaisical/lackadaisical.html",
+        "Documentation": "https://github.com/cariad/lackadaisical/blob/main/README.md",
         "Source": "https://github.com/cariad/lackadaisical",
     },
     python_requires=">=3.9",
